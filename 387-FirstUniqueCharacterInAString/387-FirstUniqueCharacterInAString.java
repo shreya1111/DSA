@@ -1,0 +1,20 @@
+// Last updated: 10/08/2026, 23:55:12
+class Solution {
+    public int firstUniqChar(String s) {
+        HashMap<Character, Integer> freq= new HashMap<>();
+
+        // Count Frequency of each Character
+        for(char ch : s.toCharArray()){
+            freq.put(ch, freq.getOrDefault(ch,0)+1);
+        }
+
+        // Find the first character with frequency 1
+        for (int i = 0; i < s.length(); i++) {
+            if (freq.get(s.charAt(i)) == 1) {
+                return i;
+            }
+        }
+        return -1;
+
+    }
+}
