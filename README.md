@@ -14,9 +14,11 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreya1111/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/shreya1111/DSA/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreya1111/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/shreya1111/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
