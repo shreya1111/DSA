@@ -22,6 +22,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreya1111/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/shreya1111/DSA/tree/master/0994-rotting-oranges) |
 | [1563-stone-game-v](https://github.com/shreya1111/DSA/tree/master/1563-stone-game-v) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shreya1111/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +65,8 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/shreya1111/DSA/tree/master/1563-stone-game-v) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shreya1111/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
