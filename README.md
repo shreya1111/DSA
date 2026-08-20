@@ -23,6 +23,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0904-fruit-into-baskets](https://github.com/shreya1111/DSA/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/shreya1111/DSA/tree/master/0994-rotting-oranges) |
 | [1563-stone-game-v](https://github.com/shreya1111/DSA/tree/master/1563-stone-game-v) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shreya1111/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shreya1111/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -75,4 +76,8 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/shreya1111/DSA/tree/master/0904-fruit-into-baskets) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shreya1111/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
