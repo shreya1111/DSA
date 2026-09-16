@@ -28,6 +28,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0904-fruit-into-baskets](https://github.com/shreya1111/DSA/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/shreya1111/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/shreya1111/DSA/tree/master/0994-rotting-oranges) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shreya1111/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1563-stone-game-v](https://github.com/shreya1111/DSA/tree/master/1563-stone-game-v) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shreya1111/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreya1111/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -43,6 +44,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0658-find-k-closest-elements](https://github.com/shreya1111/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shreya1111/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreya1111/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shreya1111/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreya1111/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Ternary Search
 |  |
@@ -70,6 +72,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/shreya1111/DSA/tree/master/0994-rotting-oranges) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shreya1111/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shreya1111/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -125,6 +128,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0658-find-k-closest-elements](https://github.com/shreya1111/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shreya1111/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/shreya1111/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shreya1111/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,6 +137,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0658-find-k-closest-elements](https://github.com/shreya1111/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shreya1111/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/shreya1111/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shreya1111/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
