@@ -6,6 +6,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/shreya1111/DSA/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/shreya1111/DSA/tree/master/0692-top-k-frequent-words) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreya1111/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -178,6 +179,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/shreya1111/DSA/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/shreya1111/DSA/tree/master/0658-find-k-closest-elements) |
 ## Recursion
 |  |
