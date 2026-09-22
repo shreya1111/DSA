@@ -56,6 +56,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shreya1111/DSA/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/shreya1111/DSA/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
@@ -80,6 +81,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shreya1111/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/shreya1111/DSA/tree/master/1563-stone-game-v) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreya1111/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -175,4 +177,12 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/shreya1111/DSA/tree/master/0658-find-k-closest-elements) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
