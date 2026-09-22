@@ -81,6 +81,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shreya1111/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shreya1111/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/shreya1111/DSA/tree/master/1563-stone-game-v) |
@@ -109,6 +110,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shreya1111/DSA/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreya1111/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shreya1111/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -180,6 +182,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shreya1111/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
