@@ -17,6 +17,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreya1111/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/shreya1111/DSA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreya1111/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreya1111/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreya1111/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -111,6 +112,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shreya1111/DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shreya1111/DSA/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreya1111/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shreya1111/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -190,4 +192,8 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shreya1111/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
