@@ -84,6 +84,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shreya1111/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shreya1111/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shreya1111/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/shreya1111/DSA/tree/master/1563-stone-game-v) |
@@ -187,6 +188,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shreya1111/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shreya1111/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shreya1111/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
