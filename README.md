@@ -73,6 +73,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shreya1111/DSA/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shreya1111/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -205,14 +206,17 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreya1111/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreya1111/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreya1111/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
