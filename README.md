@@ -46,6 +46,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreya1111/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreya1111/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreya1111/DSA/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/shreya1111/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shreya1111/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/shreya1111/DSA/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/shreya1111/DSA/tree/master/0658-find-k-closest-elements) |
@@ -120,6 +121,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shreya1111/DSA/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/shreya1111/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shreya1111/DSA/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreya1111/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shreya1111/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -212,6 +214,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0101-symmetric-tree](https://github.com/shreya1111/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/shreya1111/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -230,5 +233,6 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0101-symmetric-tree](https://github.com/shreya1111/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/shreya1111/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
