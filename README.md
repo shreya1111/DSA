@@ -74,6 +74,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shreya1111/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shreya1111/DSA/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shreya1111/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -206,6 +207,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreya1111/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shreya1111/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
@@ -213,6 +215,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreya1111/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shreya1111/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
@@ -220,6 +223,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreya1111/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shreya1111/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shreya1111/DSA/tree/master/0226-invert-binary-tree) |
