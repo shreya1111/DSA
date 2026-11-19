@@ -14,15 +14,30 @@
  * }
  */
 class Solution {
+    static boolean flag;
     public boolean isBalanced(TreeNode root) {
+        // if(root == null) return true;
+        // int leftlevels = levels(root.left);
+        // int rightlevels = levels(root.right);
+        // if(Math.abs(leftlevels - rightlevels) > 1) return false ;
+        // return isBalanced(root.left) && isBalanced(root.right);
+
+        // New code-:
         if(root == null) return true;
-        int leftlevels = levels(root.left);
-        int rightlevels = levels(root.right);
-        if(Math.abs(leftlevels - rightlevels) > 1) return false ;
-        return isBalanced(root.left) && isBalanced(root.right);
+        flag = true;
+        levels(root);
+        return flag;
+
     }
     private int levels(TreeNode roots){
+        // if(roots == null) return 0;
+        // return 1+ Math.max(levels(roots.left),levels(roots.right));
+
         if(roots == null) return 0;
-        return 1+ Math.max(levels(roots.left),levels(roots.right));
+        int leftlevels = levels(roots.left);
+        int rightlevels = levels(roots.right);
+
+        if(Math.abs(leftlevels - rightlevels)>1) flag = false;
+        return 1+ Math.max(leftlevels,rightlevels);
     }
 }
