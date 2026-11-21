@@ -13,6 +13,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreya1111/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya1111/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreya1111/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -216,6 +217,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0101-symmetric-tree](https://github.com/shreya1111/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreya1111/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shreya1111/DSA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya1111/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shreya1111/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -231,6 +233,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0101-symmetric-tree](https://github.com/shreya1111/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreya1111/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shreya1111/DSA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya1111/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shreya1111/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -245,6 +248,7 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 | [0101-symmetric-tree](https://github.com/shreya1111/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreya1111/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shreya1111/DSA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya1111/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya1111/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya1111/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shreya1111/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -264,4 +268,8 @@ Collection of Data Structures and Algorithms problems with solutions in Java.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya1111/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya1111/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
